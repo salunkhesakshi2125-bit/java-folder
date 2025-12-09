@@ -1,0 +1,12 @@
+class Codex{
+			public  static void main(string [] args){
+				System.out.println("hello");
+				Codeguru chavi = new Codeguru
+				chavi.fan();
+			}
+}
+class Codeguru{
+				static void fan(){
+				System.out.println("sakshi");
+			}
+}
